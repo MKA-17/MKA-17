@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm M K Aslam</h1>
 <h3 align="center">MERN Stack Developer</h3>
-
-- 🌱 I’m currently learning **nextjs14**
-
-- 💬 Ask me about **react, express, node, mysql, mongodbn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+ 
+ <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
