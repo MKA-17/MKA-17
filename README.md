@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm M K Aslam</h1>
 <h3 align="center">Full Stack Web developer</h3>
 
-- 👨‍💻 All of my projects are available at [mka17.vercel.app](mka17.vercel.app)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -12,6 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mka-17&show_icons=true&locale=en&layout=compact" alt="mka-17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mka-17&show_icons=true&locale=en" alt="mka-17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mka-17&" alt="mka-17" /></p>
+
