@@ -12,9 +12,4 @@
 
 This repository contains my GitHub profile-style README, including a quick snapshot of the tools I use and GitHub language stats.
 
-## Notes
-
-- Tool icons are pulled from external CDNs and may change over time.
-
-
 
